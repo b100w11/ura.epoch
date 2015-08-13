@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "CVA",
+    "longName": "ura.epoch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/Segment7Standard.ttf",
+                "name": "FONT_SEGMENT_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Segment7Standard.ttf",
+                "name": "FONT_SEGMENT_23",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ura.epoch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "6506aa88-f44f-47ea-9fed-776a050327cd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
